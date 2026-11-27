@@ -22,5 +22,29 @@
     "date": "2026-11-30",
     "status": "upcoming",
     "vod": ""
+  },
+  {
+    "id": "442",
+    "country": "Luxembourg",
+    "guest": "Krommefanger",
+    "date": "2026-12-06",
+    "status": "upcoming",
+    "vod": ""
+  },
+  {
+    "id": "862",
+    "country": "Venezuela",
+    "guest": "SkyDCGames",
+    "date": "2026-12-14",
+    "status": "upcoming",
+    "vod": ""
+  },
+  {
+    "id": "036",
+    "country": "Australia",
+    "guest": "Tiggy",
+    "date": "2026-12-29",
+    "status": "upcoming",
+    "vod": ""
   }
 ]
